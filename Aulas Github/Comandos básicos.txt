@@ -1,0 +1,12 @@
+cd "nome arquivo" //entra no repositório
+cd .. //sobe-volta repositório
+
+git clone "endereço github" //exporta um arquivo do Github para máquina
+
+git status //mostra o status atual
+
+git add * //adicionar todos os arquivos
+
+git commit -m "escreve menssgem" //comitar arqui para github
+
+git push origin main //enviando os commits para o github
